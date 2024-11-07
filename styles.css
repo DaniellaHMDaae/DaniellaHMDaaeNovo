@@ -1,9 +1,10 @@
 body {
     color:aliceblue;
     background: rgb(94, 94, 165) ;
+    margin: 0px;
 }
 
 header {
 
-    border: solid 2xp rgb(62, 38, 68);
+    border-bottom: solid 2px rgb(62, 38, 68);
 }
