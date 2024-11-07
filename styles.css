@@ -1,9 +1,9 @@
 body {
     color:aliceblue;
-    background: darkblue ;
+    background: rgb(94, 94, 165) ;
 }
 
 header {
 
-    border: solid 2xp rgb(110, 81, 117);
+    border: solid 2xp rgb(62, 38, 68);
 }
