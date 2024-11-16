@@ -37,3 +37,7 @@ p{
 img{
     height: 170px;
 }
+
+.categoria-videos {
+    display: flex;
+}
