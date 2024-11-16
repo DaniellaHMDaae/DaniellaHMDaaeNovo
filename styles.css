@@ -55,3 +55,7 @@ p{
     opacity: 1.0;
     height: 200px;
 }
+
+.categoria-videos h2 {
+    color: rgb(69, 58, 80);
+}
